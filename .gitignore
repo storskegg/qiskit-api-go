@@ -1,3 +1,7 @@
+# Jetbrains IDE directory and other things
+/.idea
+.DS_Store
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
